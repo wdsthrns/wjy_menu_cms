@@ -1,4 +1,4 @@
-# dick_cms
+# 真香微信点餐平台CMS
 
 ## Project setup
 ```
